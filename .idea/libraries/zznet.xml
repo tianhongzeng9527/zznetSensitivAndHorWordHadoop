@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="zznet">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/zznet_jar/zznet.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

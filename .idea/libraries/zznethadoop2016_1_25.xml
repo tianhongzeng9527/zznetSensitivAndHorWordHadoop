@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="zznethadoop2016.1.25">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/zznethadoop2016_1_25_jar/zznethadoop2016.1.25.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="zznetHadoop1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/zznetHadoop_jar/zznetHadoop.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

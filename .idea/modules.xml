@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/zznetHadoop/src/main/main.iml" filepath="$PROJECT_DIR$/zznetHadoop/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/searchwordreport/src/main/main1.iml" filepath="$PROJECT_DIR$/searchwordreport/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zznet.iml" filepath="$PROJECT_DIR$/zznet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zznetHadoop/zznetHadoop.iml" filepath="$PROJECT_DIR$/zznetHadoop/zznetHadoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zznetSensitivAndHorWordHadoop.iml" filepath="$PROJECT_DIR$/zznetSensitivAndHorWordHadoop.iml" />
+    </modules>
+  </component>
+</project>
